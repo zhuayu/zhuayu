@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, Nice to meet yo 👋
+
+![OXOYO's github stats](https://github-readme-stats.vercel.app/api?username=zhuayu&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuayu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **zhuayu/zhuayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
